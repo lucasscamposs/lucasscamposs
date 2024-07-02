@@ -2,14 +2,11 @@
 <br>
 
 ## Sobre mim:
-🎲 Meu nome é Lucas tenho 27 anos e sou fascinado por dados.
+🙋🏻‍♂️ Meu nome é Lucas tenho 27 anos e sou fascinado por dados.
 <br>
-<br>
-🌐 Tenho experiência em trabalhar com Python, SQL, Power BI para trazer bons insights ao negócio. <br>
-<br>
+💻 Tenho experiência em trabalhar com Python, SQL, Power BI para trazer bons insights ao negócio.
 <br>
 📚 Estou estudando Análise e Desenvolvimento de Sistema na Estácio de Sá.
-<br>
 <br>
 📧 Entre em contato no e-mail lucas8854@gmail.com <br>
 <br>
@@ -36,6 +33,7 @@ Autodidata
 <br>
 
 ## Idiomas
+<br>
 Português fluente
 Inglês avançado
 <br>
