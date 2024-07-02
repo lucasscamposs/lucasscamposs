@@ -1,16 +1,44 @@
-## Hi there 👋
+## Seja bem vindo(a) ao meu Github!
+<br>
 
-<!--
-**lucasscamposs/lucasscamposs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim:
+<br>
+🎲 Meu nome é Lucas tenho 27 anos e sou fascinado por dados.
+<br>
+🌐 Tenho experiência em trabalhar com Python, SQL, Power BI para trazer bons insights ao negócio. <br>
+<br>
+📚 Estou estudando Análise e Desenvolvimento de Sistema na Estácio de Sá.
+<br>
+📧 Entre em contato no e-mail lucas8854@gmail.com <br>
+<br>
 
-Here are some ideas to get you started:
+### Hard Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python
+SQL
+Estatística
+Excel
+Power BI
+<br>
+
+<br>
+
+### Soft Skills:
+
+Comunicativo
+Trabalho em equipe
+Proatividade
+Senso de liderança
+Aprendo muito rápido
+Autodidata
+<br>
+
+<br>
+
+## Idiomas
+Português fluente
+Inglês avançado
+<br>
+
+<br>
+Fique à vontade para explorar meus projetos e entrar em contato comigo!🫡
