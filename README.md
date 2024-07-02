@@ -12,7 +12,6 @@
 <br>
 
 ### Hard Skills:
-
 Python
 SQL
 Estatística
