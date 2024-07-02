@@ -4,9 +4,12 @@
 ## Sobre mim:
 🎲 Meu nome é Lucas tenho 27 anos e sou fascinado por dados.
 <br>
+<br>
 🌐 Tenho experiência em trabalhar com Python, SQL, Power BI para trazer bons insights ao negócio. <br>
 <br>
+<br>
 📚 Estou estudando Análise e Desenvolvimento de Sistema na Estácio de Sá.
+<br>
 <br>
 📧 Entre em contato no e-mail lucas8854@gmail.com <br>
 <br>
@@ -19,7 +22,6 @@ Estatística
 Excel
 Power BI
 <br>
-
 <br>
 
 ### Soft Skills:
@@ -31,7 +33,6 @@ Senso de liderança
 Aprendo muito rápido
 Autodidata
 <br>
-
 <br>
 
 ## Idiomas
