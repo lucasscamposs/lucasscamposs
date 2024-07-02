@@ -12,11 +12,11 @@
 <br>
 
 ### Hard Skills:
-Python
-SQL
-Estatística
-Excel
-Power BI
+Python<br>
+SQL<br>
+Estatística<br>
+Excel<br>
+Power BI<br>
 <br>
 <br>
 
