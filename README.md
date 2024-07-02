@@ -1,8 +1,7 @@
-## Seja bem vindo(a) ao meu Github!
+### Seja bem vindo(a) ao meu Github!
 <br>
 
 ## Sobre mim:
-<br>
 🎲 Meu nome é Lucas tenho 27 anos e sou fascinado por dados.
 <br>
 🌐 Tenho experiência em trabalhar com Python, SQL, Power BI para trazer bons insights ao negócio. <br>
