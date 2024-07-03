@@ -3,7 +3,7 @@
 
 ## Sobre mim:
 
-🙋🏻‍♂️ Meu nome é Lucas tenho 27 anos e sou fascinado por dados.
+🙋🏻‍♂️ Meu nome é Lucas tenho 27 anos e sou um amante da tecnologia.
 <br>
 💻 Tenho experiência em trabalhar com Python, SQL, Power BI para trazer bons insights ao negócio.
 <br>
@@ -24,10 +24,10 @@ Power BI<br>
 
 ### Soft Skills:
 
+Resolução de problemas<br>
 Proatividade<br>
 Trabalho em equipe<br>
 Autodidata<br>
-Resolução de problemas<br>
 Pensamento crítico<br>
 <br>
 <br>
@@ -39,5 +39,5 @@ Inglês: Avançado
 <br>
 
 <br>
-Aqui nesse GitHub eu publico meu projetos relacionados a área de dados e tecnologia em geral.
+Aqui nesse GitHub eu publico meu projetos relacionados a área de dados e tecnologia em geral.<br>
 Fique à vontade para explorar meus projetos e entrar em contato comigo!🫡
