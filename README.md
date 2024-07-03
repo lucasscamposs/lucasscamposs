@@ -32,7 +32,7 @@ Pensamento crítico<br>
 <br>
 <br>
 
-## Idiomas:
+---
 
 Português: Fluente<br>
 Inglês: Avançado
