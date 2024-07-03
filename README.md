@@ -3,7 +3,7 @@
 
 ## Sobre mim:
 
-🙋🏻‍♂️ Meu nome é Lucas tenho 27 anos e sou um amante da tecnologia.
+🙋🏻‍♂️ Meu nome é Lucas tenho 27 anos e sou fasciando pelo universo dos dados.
 <br>
 💻 Tenho experiência em trabalhar com Python, SQL, Power BI para trazer bons insights ao negócio.
 <br>
