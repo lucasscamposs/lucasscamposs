@@ -22,7 +22,7 @@ Power BI<br>
 <br>
 <br>
 
-### Soft Skills:
+## Soft Skills:
 
 Resolução de problemas<br>
 Proatividade<br>
@@ -39,5 +39,6 @@ Inglês: Avançado
 <br>
 
 <br>
+##
 Aqui nesse GitHub eu publico meu projetos relacionados a área de dados e tecnologia em geral.<br>
 Fique à vontade para explorar meus projetos e entrar em contato comigo!🫡
