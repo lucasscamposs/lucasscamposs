@@ -32,8 +32,8 @@ Pensamento crítico<br>
 <br>
 <br>
 
-## Idiomas
-<br>
+## Idiomas:
+
 Português: Fluente<br>
 Inglês: Avançado
 <br>
