@@ -32,14 +32,14 @@ Pensamento crítico<br>
 <br>
 <br>
 
----
+## Idiomas
 
 Português: Fluente<br>
 Inglês: Avançado
 <br>
 <br>
 
-###
+##
 
 Aqui nesse GitHub eu publico meu projetos relacionados a área de dados e tecnologia em geral.<br>
 Fique à vontade para explorar meus projetos e entrar em contato comigo!🫡
