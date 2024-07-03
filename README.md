@@ -12,7 +12,7 @@
 📧 Entre em contato no e-mail lucas8854@gmail.com <br>
 <br>
 
-### Hard Skills:
+## Hard Skills:
 
 Python<br>
 SQL<br>
