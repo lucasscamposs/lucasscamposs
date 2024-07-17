@@ -42,5 +42,5 @@ Inglês: Avançado
 ##
 
 Aqui nesse GitHub eu publico meu projetos relacionados a área de dados e tecnologia em geral.<br>
-Fique à vontade para explorar meus projetos e entrar em contato comigo!🫡
+Fique à vontade para explorar meus projetos e entrar em contato comigo!🫡<br>
 ⭣                  <br>                                                     ⭣
